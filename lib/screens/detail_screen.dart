@@ -16,7 +16,7 @@ class DetailScreen extends StatefulWidget {
 class _DetailScreenState extends State<DetailScreen> {
   VideoPlayerController? _videoController;
   bool _videoInitialized = false;
-
+######################
   @override
   void initState() {
     super.initState();
